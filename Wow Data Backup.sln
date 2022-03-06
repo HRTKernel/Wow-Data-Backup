@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wow Data Backup", "Wow Data Backup\Wow Data Backup.csproj", "{84661B96-7D63-4305-ABB7-9EEA8DAE6367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84661B96-7D63-4305-ABB7-9EEA8DAE6367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84661B96-7D63-4305-ABB7-9EEA8DAE6367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84661B96-7D63-4305-ABB7-9EEA8DAE6367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84661B96-7D63-4305-ABB7-9EEA8DAE6367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DE5145E-B1D1-4830-8994-CCDAD1CF1232}
+	EndGlobalSection
+EndGlobal
